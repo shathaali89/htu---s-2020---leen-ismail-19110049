@@ -1,0 +1,27 @@
+#head1 {
+    color: red;
+    font-size: 15px;
+    text-decoration: underline;
+    line-height: 15px;
+}
+h1, h2, p{
+    font-family:  cursive;
+    color: blue;
+font-size: 20px;
+line-height: 20px;
+font-style: italic;
+
+
+}
+.img{
+    width: 300px;
+    height: 200px;
+    opacity: 0.8;
+}
+
+#body{
+    background-image: url(\images\download.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
